@@ -1,0 +1,157 @@
+#title {
+    background-color: #77ACF1;
+    color: white;
+}
+
+.container-fluid {
+    padding: 3% 15% 7%;
+}
+
+.yoimg {
+    width: 110%;
+    transform: rotate(0deg);
+    padding: 1rem;
+    position: absolute;
+}
+
+body {
+    font-family: "Montserrat";
+}
+
+h1 {
+    font-family: "Montserrat";
+    line-height: 1.5;
+    padding-bottom: 2rem;
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+h2 {
+    line-height: 1.5;
+    font-size: 3rem;
+    font-family: "Montserrat";
+}
+
+.navbar {
+    padding-bottom: 0 0 4.5rem;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.yo-btn {
+    margin: 5% 3% 5% 0%;
+}
+
+#features {
+    padding: 7% 15%;
+    background-color: #C0FEFC;
+    position: relative;
+}
+
+.feature-box {
+    padding: 5%;
+    text-align: center;
+    background-color: #C0FEFC;
+}
+
+p {
+    color: gray;
+}
+
+.icon {
+    color: #3EDBF0;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #04009A;
+}
+
+#testimonials {
+    text-align: center;
+    background-color: #77ACF1;
+    color: white;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.testimonial {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    margin: 20 20 50px;
+    width: 15%;
+}
+
+main {
+    padding: 7% 15%;
+}
+
+.price {
+    padding: 3% 2%;
+}
+
+#pricing {
+    padding: 100px;
+    text-align: center;
+    background-color: #C0FEFC;
+}
+
+@media (max-width:1135px) {
+    #title {
+        text-align: center;
+    }
+    .yoimg {
+        position: static;
+        transform: rotate(0);
+    }
+}
+
+#cta {
+    background-color: #77ACF1;
+    align-items: center;
+    text-align: center;
+    color: white;
+    font-family: Montserrat;
+    padding: 7% 15%;
+}
+
+.yoh3 {
+    font-size: 3.5rem;
+}
+
+#footer {
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.social {
+    margin: 20px 10px;
+}
+
+.card {
+    background-color: #77ACF1;
+    border: 3px solid
+}
+
+.card-body {
+    background-color: #C0FEFC;
+}
